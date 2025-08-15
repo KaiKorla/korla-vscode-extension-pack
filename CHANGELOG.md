@@ -5,6 +5,57 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [7.0.0] - 2024-08-15
+
+- Removed apidev.azure-api-center
+- Removed azapi-vscode.azapi
+- Removed azps-tools.azps-tools
+- Removed azsdktm.securityintellisense
+- Removed azure-automation.vscode-azureautomation
+- Removed azurearc-dev.azurearc
+- Removed azurepolicy.azurepolicyextension
+- Added attilabuti.brainfuck-syntax
+- Added blindtiger.masm
+- Removed edge-security.osconfig
+- Added editorconfig.editorconfig
+- Added eliostruyf.vscode-msgraph-autocomplete
+- Added github.remotehub
+- Added hashicorp.hcl
+- Added hashicorp.terraform
+- Added hossaini.bootstrap-intellisense
+- Removed ms-azure-load-testing.microsoft-testing
+- Removed ms-azureaispeech.azure-ai-speech-toolkit
+- Removed ms-azurecache.vscode-azurecache
+- Added korlacloud.korla-vscode-extension-pack
+- Removed ms-azuretools.vscode-apimanagement
+- Removed ms-azuretools.vscode-azure-github-copilot
+- Added ms-azuretools.vscode-azure-functions-remote-web
+- Added ms-azuretools.vscode-azure-functions-webebpubsub
+- Added ms-azuretools.vscode-containers
+- Removed ms-azuretools.vscode-logicapps
+- Removed ms-bigdatatools.vscode-asa
+- Removed ms-graph.kiota
+- Removed ms-kubernetes-tools.vscode-aks-tools
+- Removed ms-vscode-remote.remote-wsl
+- Removed ms-vscode.azure-account
+- Removed ms-vscode.azure-sphere-tools
+- Removed ms-vscode.azure-sphere-tools-ui
+- Added ms-vscode.azure-repos
+- Removed ms-vscode.cmake-tools
+- Removed ms-vscode.cpptools
+- Removed ms-vscode.cpptools-extension-pack
+- Removed ms-vscode.cpptools-themes
+- Removed ms-vscode.vscode-node-azure-pack
+- Added ms-vscode.remote-repositories
+- Removed ms-windows-ai-studio.windows-ai-studio
+- Added sumneko.lua
+- Removed teamsdevapp.vscode-ai-foundry
+- Added vadimcn.vscode-lldb
+- Removed vsciot-vscode.azure-iot-edge
+- Removed vsciot-vscode.azure-iot-toolkit
+- Removed vsciot-vscode.vscode-dtdl
+- Removed vscjava.vscode-azurespringcloud
+
 ## [5.0.0] - 2024-11-06
 
 - Adding attilabuti.brainfuck-syntax
@@ -126,7 +177,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.5.2] - 2023-02-17
 
 - Removing sissel.shopify-liquid
-  
+
 ## [2.5.1] - 2023-02-17
 
 - Removing azapi-vscode.azapi
