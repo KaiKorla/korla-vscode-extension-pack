@@ -2,44 +2,30 @@
   "name": "korla-vscode-extension-pack",
   "displayName": "korla-vscode-extension-pack",
   "description": "My favorite VSCode extensions",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "publisher": "KORLACLOUD",
   "repository": {
     "url": "https://github.com/KaiKorla/korla-vscode-extension-pack"
   },
   "engines": {
-    "vscode": "^1.106.0"
+    "vscode": "^1.122.1"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
-    "attilabuti.brainfuck-syntax",
-    "blindtiger.masm",
-    "budparr.language-hugo-vscode",
     "davidanson.vscode-markdownlint",
     "editorconfig.editorconfig",
-    "eliostruyf.vscode-hugo-themer",
-    "github.remotehub",
-    "github.vscode-github-actions",
-    "github.vscode-pull-request-github",
-    "hashicorp.hcl",
-    "hashicorp.terraform",
-    "hossaini.bootstrap-intellisense",
     "humao.rest-client",
-    "korlacloud.korla-vscode-extension-pack",
+    "ms-dotnettools.csdevkit",
     "ms-sarifvscode.sarif-viewer",
-    "ms-vscode-remote.remote-ssh",
-    "ms-vscode-remote.remote-ssh-edit",
     "ms-vscode.hexeditor",
-    "ms-vscode.remote-repositories",
-    "ms-vscode.vscode-serial-monitor",
+    "opentofu.vscode-opentofu",
+    "openai.chatgpt",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
     "rust-lang.rust-analyzer",
-    "vadimcn.vscode-lldb",
-    "webfreak.debug",
-    "yzhang.markdown-all-in-one"
+    "vadimcn.vscode-lldb"
   ],
   "dependencies": {
     "@vscode/vsce": "^3.6.0"

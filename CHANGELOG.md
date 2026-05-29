@@ -7,6 +7,37 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [9.0.0] - 2026-05-29
+
+### Added
+
+- ms-dotnettools.csdevkit
+- opentofu.vscode-opentofu
+
+### Changed
+
+- supported vscode version
+
+### Removed
+
+- attilabuti.brainfuck-syntax,
+- blindtiger.masm,
+- budparr.language-hugo-vscode,
+- eliostruyf.vscode-hugo-themer,
+- github.remotehub,
+- github.vscode-github-actions,
+- github.vscode-pull-request-github,
+- hashicorp.hcl,
+- hashicorp.terraform,
+- hossaini.bootstrap-intellisense,
+- korlacloud.korla-vscode-extension-pack,
+- ms-vscode-remote.remote-ssh,
+- ms-vscode-remote.remote-ssh-edit,
+- ms-vscode.remote-repositories,
+- ms-vscode.vscode-serial-monitor,
+- webfreak.debug,
+- yzhang.markdown-all-in-one
+
 ## [8.0.0] - 2025-11-23
 
 ### Added
